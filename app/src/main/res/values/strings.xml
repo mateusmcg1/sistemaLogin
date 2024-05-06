@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppFinanceiro</string>
+    <string name="TextViewHeader">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="TextViewHeaderD">Despesas</string>
+    <string name="prompt_valor">Valor da despesa</string>
+    <string name="prompt_descricao">Descrição</string>
+    <string name="prompt_data">Digite uma data</string>
+    <string name="prompt_categoria">Categoria da despesa</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_save">Salvar</string>
+</resources>
